@@ -1,0 +1,11 @@
+... OnCreate ...
+
+try{
+
+//criar banco de dados
+SQLiteDatabase bancoDados = openorCreateDatabase("app", MODE_PRIVATE, null);
+
+
+}catch(){
+
+}
